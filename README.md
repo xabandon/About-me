@@ -1,4 +1,4 @@
 # About-me
 
 
-# Hi, my name is Ivan Deng. Currently, a computer science undergradute at University of Illinios at Chicago. My intersted in computer science begin with scratch during my High School year. 
+# Hi, my name is Ivan Deng. Currently, a computer science undergradute at University of Illinios at Chicago. My intersted in computer science begin with scratch during my High School year. I am devloping in python for the past few years/ 
